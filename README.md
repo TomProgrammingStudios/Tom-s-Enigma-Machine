@@ -106,7 +106,7 @@ The following article assumes that you have knowledge about the functioning of t
 
 ## Usage
 
-Please watch this youtube video if you want visual intstructions : 
+Please watch this youtube video if you want visual intstructions : https://youtu.be/m9gquuUSRuI
 
 ### General description and definitions
 
